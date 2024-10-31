@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e605d9b-eb95-41bb-82f9-550b1958ec23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS_ASSIG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/AppendCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/CDCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/CLI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/CatCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/CommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/HelpCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/LsCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/MkdirCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/MvCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/PipeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/PwdCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/RedirectionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/RmCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/RmdirCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/SortNameCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/os/TouchCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/os/AppendCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/os/CDCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/os/CommandsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/os/LSCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/os/MkdirCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/os/RmdirCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/os/SystemCommandRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/CDCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/CLI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/CatCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/CommandHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/LsCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/MkdirCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/MvCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/PipeHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/PwdCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/RedirectionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/RmCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/RmdirCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/os/TouchCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/os/CDCommandTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/os/MkdirCommandTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/os/PwdCommandTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2o7oJQdQyd24DnWlQHZDKZEw3Nd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.LSCommandTest.ls.executor": "Run",
+    "JUnit.LSCommandTest.lsMagicCard.executor": "Run",
+    "JUnit.LSCommandTest.lsRelativePath.executor": "Run",
+    "JUnit.SystemCommandRunner.testLS.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/OSASSIG/OS_ASSIG",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSASSIG\OS_ASSIG\" />
+      <recent name="D:\OSASSIG\OS_ASSIG\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SystemCommandRunner.testLS">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OS_ASSIG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LSCommandTest.ls" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OS_ASSIG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.org.os.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.org.os" />
+      <option name="MAIN_CLASS_NAME" value="test.java.org.os.LSCommandTest" />
+      <option name="METHOD_NAME" value="ls" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LSCommandTest.lsMagicCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OS_ASSIG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.org.os.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.org.os" />
+      <option name="MAIN_CLASS_NAME" value="test.java.org.os.LSCommandTest" />
+      <option name="METHOD_NAME" value="lsMagicCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LSCommandTest.lsRelativePath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OS_ASSIG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.org.os.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.org.os" />
+      <option name="MAIN_CLASS_NAME" value="test.java.org.os.LSCommandTest" />
+      <option name="METHOD_NAME" value="lsRelativePath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemCommandRunner.testLS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OS_ASSIG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.org.os.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.org.os" />
+      <option name="MAIN_CLASS_NAME" value="test.java.org.os.SystemCommandRunner" />
+      <option name="METHOD_NAME" value="testLS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SystemCommandRunner.testLS" />
+        <item itemvalue="JUnit.LSCommandTest.lsRelativePath" />
+        <item itemvalue="JUnit.LSCommandTest.ls" />
+        <item itemvalue="JUnit.LSCommandTest.lsMagicCard" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e605d9b-eb95-41bb-82f9-550b1958ec23" name="Changes" comment="" />
+      <created>1730229905234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730229905234</updated>
+      <workItem from="1730229906321" duration="13407000" />
+      <workItem from="1730297853670" duration="12170000" />
+      <workItem from="1730350159621" duration="1672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
